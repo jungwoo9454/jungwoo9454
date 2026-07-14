@@ -40,8 +40,6 @@
   <img src ="https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=square&logo=adobephotoshop&logoColor=white"/>
 
   ## 🏆My stats🏆
-  ### BOJ Algorythm rate
-  [![Solved.ac/jungwoo9454](http://mazassumnida.wtf/api/generate_badge?boj=jungwoo9454)](https://solved.ac/jungwoo9454)
   ### Github stats
   ![Jungwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungwoo9454&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungwoo9454&layout=compact&theme=dark)
